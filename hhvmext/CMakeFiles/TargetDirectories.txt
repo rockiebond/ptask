@@ -1,0 +1,2 @@
+/home/rockie/opensource/ptask/hhvmext/CMakeFiles/example.dir
+/home/rockie/opensource/ptask/hhvmext/CMakeFiles/test.dir

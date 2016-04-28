@@ -1,0 +1,2 @@
+/home/rockie/opensource/ptask/hext/CMakeFiles/ptask.dir
+/home/rockie/opensource/ptask/hext/CMakeFiles/test.dir
