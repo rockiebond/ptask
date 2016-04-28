@@ -17,9 +17,9 @@ all: $(LIB)
 
 $(OFILES): taskimpl.h task.h 386-ucontext.h power-ucontext.h
 
-AS=gcc -c
+AS=gcc -c 
 CC=gcc
-CFLAGS=-Wall -c -I. -ggdb
+CFLAGS=-Wall -fPIC -c -I. -ggdb
 
 %.o: %.S
 	$(AS) $*.S
